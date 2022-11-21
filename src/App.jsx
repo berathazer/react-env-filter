@@ -47,7 +47,7 @@ function App() {
   return (
     <div className="bg-[#111111] w-full min-h-screen flex flex-col items-center">
       <div className="text-white/70 mt-5 font-semibold ">
-        Copy an Env File Text
+        Paste an Env File Text
       </div>
       <div className="container">
         <div className="flex flex-col items-center justify-between gap-y-4 gap-x-5 pt-5 px-5">
